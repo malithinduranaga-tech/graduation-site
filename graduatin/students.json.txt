@@ -1,0 +1,14 @@
+{
+  "ST001": {
+    "name": "Kasun Perera",
+    "nic": "200012345678",
+    "address": "Negombo",
+    "course": "Counseling"
+  },
+  "ST002": {
+    "name": "Nimali Silva",
+    "nic": "200112345678",
+    "address": "Colombo",
+    "course": "Psychology"
+  }
+}
